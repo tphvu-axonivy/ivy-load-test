@@ -1,20 +1,20 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.axonivy.market</groupId>
-  <name>java-jmeterdsl-load-test-reference</name>
-  <artifactId>java-jmeterdsl-load-test-reference-modules</artifactId>
+  <name>ivy-load-test</name>
+  <artifactId>ivy-load-test-modules</artifactId>
   <version>14.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
 
   <modules>
-    <module>java-jmeterdsl-load-test-reference</module>
-    <module>java-jmeterdsl-load-test-reference-demo</module>
-    <module>java-jmeterdsl-load-test-reference-test</module>
-    <module>java-jmeterdsl-load-test-reference-product</module>
+    <module>ivy-load-test</module>
+    <module>ivy-load-test-demo</module>
+    <module>ivy-load-test-test</module>
+    <module>ivy-load-test-product</module>
   </modules>
 
   <scm>
-    <developerConnection>scm:git:https://github.com/axonivy-market/java-jmeterdsl-load-test-reference.git</developerConnection>
+    <developerConnection>scm:git:https://github.com/axonivy-market/ivy-load-test.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
